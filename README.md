@@ -23,4 +23,4 @@ Signal, Sector, Ticker, Log_Date_t0, Log_Price_Closing_Price_t0, Change,_Log_Dat
 
 SETUP
 
-if you need to insert your keys or data in the code, an # ACTION REQUIRED # tag will be above the line if you are outside of Germany, you will need to adjust the data consent parts of the code, you will find the comments accordingly - skip the code if you are outside of Europe and adjust the names of the elements to your language for selenium to be able to pick them up Run the code daily (even on weekends Stockwits can generate relevant data).
+If you are outside of Germany, you will need to adjust the data consent parts of the code - skip the code if you are outside of Europe and adjust the names of the elements to your language for selenium to be able to pick them up Run the code daily (even on weekends Stockwits can generate relevant data).
