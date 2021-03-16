@@ -190,16 +190,16 @@ class Tradingview:
 
         sheet.clean_duplicates(3)
 
-# stockwits = Stockwits()
-# stockwits.get_data()
+stockwits = Stockwits()
+stockwits.get_data()
 
-# finviz = Finviz()
-# finviz.get_data()
-#
-# trav = Tradingview()
-# trav.get_data()
+finviz = Finviz()
+finviz.get_data()
 
-#sheet.update()
-# sheet.summary()
+trav = Tradingview()
+trav.get_data()
+
+sheet.update()
+sheet.summary()
 
 
